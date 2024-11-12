@@ -3,14 +3,19 @@
 **Desenvolvedor Back-End Pleno e Líder de Qualidade de Software**
 
 Com foco em desenvolvimento back-end e liderança na equipe de QA, estou constantemente explorando novas ferramentas e aprimorando minhas habilidades para entregar software eficiente e escalável.
-
-<a href="https://github.com/felps-github/github-readme-stats">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=felps-github&show_icons=true&theme=vision-friendly-dark" alt="Estatísticas do GitHub de Felipe André"/>
-</a>
-
-<a href="https://github.com/felps-github/github-readme-stats">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felps-github&theme=vision-friendly-dark" alt="Principais Linguagens"/>
-</a>
+<div align="center">
+  <a href="https://github.com/felps-github/github-readme-stats">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=felps-github&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Felipe André"/>
+  </a>
+  
+  <a href="https://github.com/felps-github/github-readme-stats">
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felps-github&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Principais Linguagens"/>
+  </a>
+  
+  <a href="https://github.com/felps-github/github-readme-stats">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=felps-github&theme=vision-friendly-dark&hide_border=true" alt="Principais Linguagens"/>
+  </a>
+</div>
 
 ## Tecnologias
 
